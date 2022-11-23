@@ -10,4 +10,5 @@
 
 - [x] Eslint - Standard
 - [x] Build com Babel com paths (Alias)
-- [x] GFM task list 3
+- [] Conventional Commits (husky)
+- [] Test com Jest
